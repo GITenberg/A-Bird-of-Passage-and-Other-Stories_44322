@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4389
     wikipedia: http://en.wikipedia.org/wiki/Beatrice_Harraden
 description: A bird of passage -- At the Green Dragon -- An idyll of London.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44322#A-Bird-of-Passage-and-Other-Stories
 gutenberg_issued: '2013-11-30'
 gutenberg_type: Text
 identifiers:
